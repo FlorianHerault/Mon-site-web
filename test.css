@@ -1,0 +1,254 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin: 0px;
+	background-color: white;
+}
+.iconSante{
+    width: 278px;
+    height: 278px;
+    background-image: url(Nuitdelinfo/Export/Icone/Sante.png);
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 15%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.fullsizeSante{
+    width: 553px; 
+    height: 1086px;
+    background-image: url("Nuitdelinfo/Export/FullSize/Sante.png");
+    position: absolute;
+    left: 50%;
+	margin-left: -276px;
+    margin-top: 20%;
+    opacity: 0;
+	z-index: 98;
+	background-repeat: no-repeat;
+}
+.iconloca{
+    width: 278px;
+    height: 278px;
+    background-image: url(Nuitdelinfo/Export/Icone/Localisation.png);
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 15%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.fullsizeloca{
+    width: 553px; 
+    height: 1086px;
+    background-image: url(Nuitdelinfo/Export/FullSize/Localisation.png);
+    position: absolute;
+    left: 50%;
+	margin-left: -276px;
+    margin-top: 20%;
+    opacity: 0;
+	z-index: 98;
+	background-repeat: no-repeat;
+}
+.iconMission{
+    width: 278px;
+    height: 278px;
+    background-image: url(Nuitdelinfo/Export/Icone/Mission.png);
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 50%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.fullsizeMission{
+    width: 553px; 
+    height: 1086px;
+    background-image: url(Nuitdelinfo/Export/FullSize/Mission.png);
+    position: absolute;
+    left: 50%;
+	margin-left: -276px;
+    margin-top: 20%;
+    opacity: 0;
+	z-index: 98;
+	background-repeat: no-repeat;
+}
+.iconCampement{
+    width: 278px;
+    height: 278px;
+    background-image: url(Nuitdelinfo/Export/Icone/Campement.png);
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 50%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.fullsizeCampement{
+    width: 553px; 
+    height: 1086px;
+    background-image: url(Nuitdelinfo/Export/FullSize/Campement.png);
+    position: absolute;
+    left: 50%;
+	margin-left: -276px;
+    margin-top: 20%;
+    opacity: 0;
+	z-index: 98;
+	background-repeat: no-repeat;
+}
+.iconMeteo{
+    width: 278px;
+    height: 278px;
+    background-image: url(Nuitdelinfo/Export/Icone/Meteo.png);
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 85%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.fullsizeMeteo{
+    width: 553px; 
+    height: 1086px;
+    background-image: url(Nuitdelinfo/Export/FullSize/Meteo.png);
+    position: absolute;
+    left: 50%;
+	margin-left: -276px;
+    margin-top: 20%;
+    opacity: 0;
+	z-index: 98;
+	background-repeat: no-repeat;
+}
+.iconContact{
+    width: 278px;
+    height: 278px;
+    background-image: url(Nuitdelinfo/Export/Icone/Contact.png);
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 85%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.fullsizeContact{
+    width: 553px; 
+    height: 1086px;
+    background-image: url(Nuitdelinfo/Export/FullSize/Contact.png);
+    position: absolute;
+    left: 50%;
+	margin-left: -276px;
+    margin-top: 20%;
+    opacity: 0;
+	z-index: 98;
+	background-repeat: no-repeat;
+}
+.iconUrgence{
+    width: 525px;
+    height: 278px;
+    background-image: url(Nuitdelinfo/Export/Icone/URGENCE.png);
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 120%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.fullsizeUrgence{
+    width: 553px; 
+    height: 1086px;
+    background-image: url(Nuitdelinfo/Export/FullSize/Validationurgence.png);
+    position: absolute;
+    left: 50%;
+	margin-left: -276px;
+    margin-top: 20%;
+    opacity: 0;
+	z-index: 98;
+	background-repeat: no-repeat;
+}
+.iconGauche{
+    width: 217px;
+    height: 140px;
+    background-image: url(Nuitdelinfo/Export/Icone/gauche.png);
+    position: absolute;
+    margin-left: 20%;
+    margin-top: 155%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.fullsizeGauche{
+    width: 553px; 
+    height: 1086px;
+    background-image: url(Nuitdelinfo/Export/FullSize/QR16.png);
+    position: absolute;
+    left: 50%;
+	margin-left: -276px;
+    margin-top: 20%;
+    opacity: 0;
+	z-index: 98;
+	background-repeat: no-repeat;
+}
+.iconMiddle{
+    width: 140px;
+    height: 140px;
+    background-image: url(Nuitdelinfo/Export/Icone/middle.png);
+    position: absolute;
+    margin-left: 40%;
+    margin-top: 155%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.iconDroite{
+    width: 215px;
+    height: 140px;
+    background-image: url(Nuitdelinfo/Export/Icone/droite.png);
+    position: absolute;
+    margin-left: 52%;
+    margin-top: 155%;
+    cursor: pointer;
+	z-index: 99;
+	background-repeat: no-repeat;
+    
+}
+.fullsizeDroite{
+    width: 553px; 
+    height: 1086px;
+    background-image: url(Nuitdelinfo/Export/FullSize/CH2019.png);
+    position: absolute;
+    left: 50%;
+	margin-left: -276px;
+    margin-top: 20%;
+    opacity: 0;
+	z-index: 98;
+	background-repeat: no-repeat;
+}
+.moonnoir{
+	width: 32px; 
+    height: 32px;
+    background-image: url(Nuitdelinfo/Export/Icone/moonnoir.png);
+	top : 5%;
+	right : 8%;
+	position: fixed;
+	background-repeat: no-repeat;
+	z-index: 99;
+}
+.moonblanche{
+	width: 32px; 
+    height: 32px;
+    background-image: url(Nuitdelinfo/Export/Icone/moonblanche.png);
+	top : 5%;
+	right : 8%;
+	position: fixed;
+	background-repeat: no-repeat;
+	z-index: 99;
+}
