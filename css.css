@@ -1,0 +1,58 @@
+body {
+    background-image: url("http://designerfied.com/wp-content/uploads/2009/02/df2.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+font{
+	font-size: 30pt;
+	color:white;
+	text-decoration: underline;
+	text-align: center;
+}
+.header{
+	border-radius: 30px;
+	background-color: rgba(100,100,100,0.8);
+	margin: auto;
+	padding: 30px;
+	width: 300px;
+    height: 80px; 
+	text-align: center;
+	color: white;
+	text-shadow: 3px 3px 1px rgba(255,255,255,0.3);
+}
+.topnav  {
+	overflow: hidden;
+	background-color: rgba(100,100,100,0.5); 
+	margin-left: 25%;
+	margin-right: 25%;
+	border-radius: 70px;
+	
+}
+.topnav a {
+	display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+	margin: auto;
+    font-weight: bloder	;
+	text-shadow: 1px 1px 1px black;
+}
+.topnav a:hover {
+    background-color: rgba(255,255,255, 0.5);
+    color: white;
+	margin: auto;
+}
+.haut{
+	opacity: 0.9;
+	position: fixed;
+	right: 10%;
+	bottom: 10%;
+}
+
+ul{
+	color: white;
+	margin: 0;
+	margin-left: 35%;
+	}

@@ -1,0 +1,45 @@
+body {
+    background-image: url("http://designerfied.com/wp-content/uploads/2009/02/df2.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+.tot{
+	list-style-type: none;
+	position: fixed; 
+	line-height: 360%;
+	right:0%; 
+	top:25%;
+	color: white; 
+	background-color: rgb(104,18,18); 
+	padding: 10px;
+}
+
+table
+{
+    border-collapse: collapse;
+	width:90%;
+	padding: 15px;
+
+}
+td{
+	vertical-align: bottom ;
+	text-align: center ;
+	padding: 15px;
+	font-size: 15pt;
+	color: white;
+	background-color: rgb(127,127,127);
+	border-radius: 15px;
+}
+tr:nth-child(even) {
+	background-color: rgb(150,150,150);
+	color: white;
+	}
+th{
+	background-color: rgb(104, 18, 18);
+    color: white;
+	padding: 15px;
+	font-weight:bold;
+	font-size: 18pt;
+	border-radius: 30px;
+}
